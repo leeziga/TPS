@@ -1915,6 +1915,14 @@ PrefabInstance:
       propertyPath: cam
       value: 
       objectReference: {fileID: 92029316}
+    - target: {fileID: 3444064783770444901, guid: 3d8da9e737166504496dd8b8777c6dca, type: 3}
+      propertyPath: groundDist
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3444064783770444901, guid: 3d8da9e737166504496dd8b8777c6dca, type: 3}
+      propertyPath: jumpHeight
+      value: 1.5
+      objectReference: {fileID: 0}
     - target: {fileID: 3444064784085649754, guid: 3d8da9e737166504496dd8b8777c6dca, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 

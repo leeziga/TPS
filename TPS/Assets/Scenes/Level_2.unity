@@ -1282,11 +1282,11 @@ MonoBehaviour:
   cam: {fileID: 92029316}
   gravity: -9.8
   groundCheck: {fileID: 1058959326}
-  groundDist: 0
+  groundDist: 0.5
   groundMask:
     serializedVersion: 2
     m_Bits: 256
-  jumpHeight: 1
+  jumpHeight: 1.5
   moveDir: {x: 0, y: 0, z: 0}
   tpCamera: {fileID: 0}
   abilityHolder: {fileID: 1301521722}
